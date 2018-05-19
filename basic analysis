@@ -1,0 +1,5 @@
+the main project is easy to understand. 
+two point of this project must be mentioned
+1.to design colormaps witharbitrary length
+2.the colormap exists in Matlab.
+so, we should analyze how colormap in matab is designed. to see its componet, draw the three passageway of the colormap.
